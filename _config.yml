@@ -2,6 +2,7 @@ name: well-lit-places
 favicon: null
 layout_spectrum: 0.8978480086661875
 typography_spectrum: 0.5209742153529078
+title: Well-Lit Places
 cta:
   domain: null
   bucket: null
