@@ -1,0 +1,28 @@
+name: well-lit-places
+favicon: null
+layout_spectrum: 0.8978480086661875
+typography_spectrum: 0.5209742153529078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8543124115094543
+  lightness: 0.9351193306501955
+  saturation: 0.4003526030573994
+  rhythmicContrast: 0.7621608877088875
+purpose: []
