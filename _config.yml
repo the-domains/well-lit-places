@@ -1,29 +1,41 @@
-name: Photography by Baron Chat
-favicon: null
-layout_spectrum: 0.8978480086661875
-typography_spectrum: 0.5209742153529078
 title: Well-Lit Places
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5119474
+  brandStrength: 0.8321385
+  lightness: 0.8894863
+  brandColors:
+    - '#05020C'
+    - '#BDCED0'
+    - '#774216'
+    - '#0191A3'
+    - '#6565A3'
+  rhythmicContrast: 0.8894863
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Photography by Baron Chat
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0c070e'
-    - '#c3d2d5'
-    - '#004276'
-    - '#0098a6'
-    - '#cb983f'
-  brandStrength: 0.8543124115094543
-  lightness: 0.9351193306501955
-  saturation: 0.4003526030573994
-  rhythmicContrast: 0.7621608877088875
-purpose: []
+typography_spectrum: 0.5669056
+layout_spectrum: 1
